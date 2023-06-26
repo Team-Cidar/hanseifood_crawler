@@ -1,0 +1,72 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyArgumentListInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyBroadExceptionInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyChainedComparisonsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoreConstantInTheMiddle" value="true" />
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E501" />
+          <option value="E265" />
+          <option value="E722" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N801" />
+          <option value="N802" />
+          <option value="N806" />
+          <option value="N803" />
+          <option value="N812" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyRedeclarationInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyShadowingBuiltinsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredNames">
+        <list>
+          <option value="min" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyTypedDictInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnboundLocalVariableInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="str.add" />
+          <option value="str.*" />
+          <option value="python_5_mod1" />
+          <option value="python_practice.python_5.python_5_module.subt" />
+          <option value="python_practice.python_5.python_5_module.sub" />
+          <option value="python_5_mod2" />
+          <option value="python_practice.python_5.python_5_package.package_prac" />
+          <option value="python_practice.python_5.python_5_package.echo" />
+          <option value="python_practice.python_5.python_5_package.sound" />
+          <option value="python_practice.python_5.pack.graphic.render.*" />
+          <option value="cv2" />
+          <option value="cv2.*" />
+          <option value="turtle.showturtle" />
+          <option value="turtle.write" />
+          <option value="turtle.forward" />
+          <option value="turtle.right" />
+          <option value="turtle.color" />
+          <option value="turtle.penup" />
+          <option value="turtle.goto" />
+          <option value="turtle.pendown" />
+          <option value="user_file_io" />
+          <option value="TkinterApp" />
+          <option value="list.split" />
+          <option value="float.__getitem__" />
+          <option value="googlemaps.client.Client.geocode" />
+          <option value="list.__getitem__" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
